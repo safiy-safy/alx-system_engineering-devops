@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd
+cd chomd u+x hello
