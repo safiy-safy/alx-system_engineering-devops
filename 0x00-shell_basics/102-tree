@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir-P /to/school 
+touch-welcome/to welcome/to/school 
