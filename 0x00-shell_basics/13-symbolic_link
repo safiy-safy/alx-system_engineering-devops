@@ -1,2 +1,2 @@
 #!/bin/bash
-_ls_ -> /bin/ls
+lrwxrwxrwx 1 root root 7  _ls_
