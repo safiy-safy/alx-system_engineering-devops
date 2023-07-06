@@ -1,2 +1,2 @@
 #!/bin/bash
-cd chomd u+x hello
+ls-d
