@@ -1,2 +1,2 @@
-0        string SCHOOL To detect School data files
-!:mime  text/School files
+0        string SCHOOL  School data files
+!:mime  School/files
