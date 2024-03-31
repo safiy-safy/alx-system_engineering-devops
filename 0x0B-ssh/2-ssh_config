@@ -8,4 +8,6 @@ Host *
     HashKnownHosts yes 
     GSSAPIAuthentication yes
     GSSAPIDelegateCredentials no
-
+    RSAAuthentication yes
+    PubkeyAuthentication yes
+    AuthorizedKeysFile .ssh/authorized_keys
