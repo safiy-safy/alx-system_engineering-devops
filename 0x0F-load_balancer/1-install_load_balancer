@@ -30,6 +30,7 @@ backend safiya-tech_backend
         balance roundrobin
         server 419745-web-01 100.26.122.93:8000 check
         server 419745-web-02 54.236.54.28:8000 check
+	check
 "
 echo "$server_config" | sudo tee -a /etc/haproxy/haproxy.cfg
 
